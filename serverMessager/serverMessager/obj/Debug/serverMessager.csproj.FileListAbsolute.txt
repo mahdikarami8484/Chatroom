@@ -1,0 +1,6 @@
+J:\c#\serverMessager\serverMessager\bin\Debug\serverMessager.exe.config
+J:\c#\serverMessager\serverMessager\bin\Debug\serverMessager.exe
+J:\c#\serverMessager\serverMessager\bin\Debug\serverMessager.pdb
+J:\c#\serverMessager\serverMessager\obj\Debug\serverMessager.csprojResolveAssemblyReference.cache
+J:\c#\serverMessager\serverMessager\obj\Debug\serverMessager.exe
+J:\c#\serverMessager\serverMessager\obj\Debug\serverMessager.pdb
