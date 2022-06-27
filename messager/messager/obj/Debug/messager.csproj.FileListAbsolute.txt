@@ -1,0 +1,9 @@
+J:\c#\messager\messager\bin\Debug\messager.exe.config
+J:\c#\messager\messager\bin\Debug\messager.exe
+J:\c#\messager\messager\bin\Debug\messager.pdb
+J:\c#\messager\messager\obj\Debug\messager.csprojResolveAssemblyReference.cache
+J:\c#\messager\messager\obj\Debug\messager.Form1.resources
+J:\c#\messager\messager\obj\Debug\messager.Properties.Resources.resources
+J:\c#\messager\messager\obj\Debug\messager.csproj.GenerateResource.Cache
+J:\c#\messager\messager\obj\Debug\messager.exe
+J:\c#\messager\messager\obj\Debug\messager.pdb
